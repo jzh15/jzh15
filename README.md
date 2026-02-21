@@ -65,7 +65,7 @@
 </div>
 
 ### 🌟 VLM-3R: Vision-Language Models Augmented with 3D Reconstruction
-**ArXiv 2025** | **Jian Zhang***, Zhiwen Fan*, et al.
+**CVPR 2026** | **Jian Zhang***, Zhiwen Fan*, et al.
 
 Unified VLM framework incorporating 3D Reconstructive instruction tuning, processing monocular video to derive implicit 3D tokens for spatial assistance and embodied reasoning.
 
@@ -77,7 +77,7 @@ Unified VLM framework incorporating 3D Reconstructive instruction tuning, proces
 ---
 
 ### 🌍 DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds
-**Preprint** | Kairun Wen*, Yuzhi Huang*, ..., **Jian Zhang**, et al.
+**NeurIPS 2025** | Kairun Wen*, Yuzhi Huang*, ..., **Jian Zhang**, et al.
 
 Large-scale dataset with 100K+ videos, 800K+ masks, and 10M+ frames for understanding dynamic physical worlds with evolving 3D structure and motion.
 
