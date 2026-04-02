@@ -95,7 +95,7 @@ Large-scale dataset with 100K+ videos, 800K+ masks, and 10M+ frames for understa
 
 [![Project](https://img.shields.io/badge/🌐_Project-Page-00D9FF?style=flat-square)](https://dynamic-verse.github.io/)
 [![Paper](https://img.shields.io/badge/📄_Paper-Coming_Soon-gray?style=flat-square)]()
-[![Code](https://img.shields.io/badge/💻_Code-Coming_Soon-gray?style=flat-square)]()
+[![Code](https://img.shields.io/badge/💻_Code-GitHub-000000?style=flat-square&logo=github)](https://github.com/Dynamics-X/DynamicVerse)
 [![Demo](https://img.shields.io/badge/🎮_Demo-Interactive-FF6B6B?style=flat-square)](https://dynamic-verse.github.io/)
 
 ---
