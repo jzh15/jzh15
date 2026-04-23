@@ -70,9 +70,10 @@
 Hierarchical geometry-language fusion framework for 3D VLM spatial reasoning, progressively injecting multi-level geometry features into the language decoder for stronger local and global spatial understanding.
 
 [![Paper](https://img.shields.io/badge/📄_Paper-ArXiv-B31B1B?style=flat-square)](https://arxiv.org/abs/2603.27437)
-[![Code](https://img.shields.io/badge/💻_Code-GitHub-000000?style=flat-square&logo=github)](https://github.com/phai-lab/SpatialStack)
+[![Code](https://img.shields.io/badge/💻_Code-GitHub-000000?style=flat-square&logo=github)](https://github.com/jzh15/SpatialStack)
 [![Project](https://img.shields.io/badge/🌐_Project-Page-00D9FF?style=flat-square)](https://spatial-stack.github.io/)
-[![Model](https://img.shields.io/badge/🤗_Model-HuggingFace-FFB000?style=flat-square)](https://huggingface.co/Journey9ni/SpatialStack-Qwen2.5-4B)
+[![Model](https://img.shields.io/badge/🤗_Model-HuggingFace-FFB000?style=flat-square)](https://huggingface.co/Journey9ni/SpatialStack-Qwen3.5-4B)
+[![Data](https://img.shields.io/badge/🤗_Data-HuggingFace-F57C00?style=flat-square)](https://huggingface.co/datasets/Journey9ni/SpatialStackData)
 
 ---
 
