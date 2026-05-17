@@ -50,8 +50,9 @@
 
 ## 💼 Experience
 
-- **Remote Research Assistant** | *[PHAI Lab](https://phai-lab.github.io/), Texas A&M University* (May 2025 - Aug 2025) - 3D Vision & Embodied Intelligence
-- **Remote Research Assistant** | *VITA Group, University of Texas at Austin* (Jan 2024 - May 2025) - 3D Semantic Reconstruction
+- **Remote Research Assistant** | *[PHAI Lab](https://phai-lab.github.io/), Texas A&M University* (May 2025 - Aug 2025)<br>
+  3D Vision & Embodied Intelligence
+- **Remote Research Assistant** | *[VITA Group](https://vita-group.github.io/group.html), University of Texas at Austin* (Jan 2024 - May 2025) - 3D Semantic Reconstruction
 
 ---
 
