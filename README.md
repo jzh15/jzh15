@@ -2,7 +2,7 @@
 
 # 🌟 Jian Zhang | 张舰
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Exploring+3D-Consistent+Generation;Advancing+3D+Spatial+Understanding;Building+Intelligent+3D+Agents" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Advancing+3D+Spatial+Understanding;Building+3D+Vision-Language+Models;Developing+Embodied+AI+Agents" alt="Typing SVG" />
 
 [![Homepage](https://img.shields.io/badge/🌐_Homepage-Visit_Site-00D9FF?style=for-the-badge&logo=github-pages)](https://jzh15.github.io/)
 [![Google Scholar](https://img.shields.io/badge/📚_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qBNtBsAAAAAJ)
@@ -29,14 +29,13 @@
 
 ## 🚀 Research Vision
 
-> *My long-term vision follows a progressive pathway: first achieving **3D-consistent content generation**, then developing comprehensive **3D understanding**, and ultimately enabling intelligent **embodied agents** that can navigate and interact within these 3D environments.*
+> *My long-term vision centers on comprehensive **3D spatial understanding**: building 3D vision-language models, semantic reconstruction systems, and embodied agents that can reason about and interact with the physical world.*
 
 ### 🎯 Current Focus Areas
 
-- **🎬 3D-Consistent Content Generation**
-- **🔬 3D Spatial Understanding** 
-- **🤖 3D Embodied Agents**
-- **🎮 Virtual Worlds & Metaverse Applications**
+- **🔬 3D Spatial Understanding**
+- **🧭 3D Vision-Language Models**
+- **🤖 Embodied Artificial Intelligence Agents**
 
 </td>
 </tr>
@@ -47,12 +46,12 @@
 ## 🎓 Education
 
 - **Graduate Student** | *Xiamen University* (Sept 2023 - Present)
-- **B.S. Artificial Intelligence** | *Nanchang University* (Sept 2019 - June 2023)
+- **B.S. Data Science and Big Data Technology** | *Nanchang University* (Sept 2019 - June 2023)
 
 ## 💼 Experience
 
-- **Research Assistant** | *Texas A&M University* (May 2025 - Aug 2025) - 3D Vision & Embodied Intelligence
-- **Research Assistant** | *VITA Group, University of Texas at Austin* (Jan 2024 - May 2025) - 3D Spatial Reconstruction & Understanding
+- **Remote Research Assistant** | *[PHAI Lab](https://phai-lab.github.io/), Texas A&M University* (May 2025 - Aug 2025) - 3D Vision & Embodied Intelligence
+- **Remote Research Assistant** | *VITA Group, University of Texas at Austin* (Jan 2024 - May 2025) - 3D Semantic Reconstruction
 
 ---
 
@@ -67,7 +66,7 @@
 ### 🧭 SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning
 **CVPR 2026** | **Jian Zhang***, Shijie Zhou*, Bangya Liu*, Achuta Kadambi, Zhiwen Fan
 
-Hierarchical geometry-language fusion framework for 3D VLM spatial reasoning, progressively injecting multi-level geometry features into the language decoder for stronger local and global spatial understanding.
+Fuses layered geometry-language features for 3D spatial reasoning.
 
 [![Paper](https://img.shields.io/badge/📄_Paper-ArXiv-B31B1B?style=flat-square)](https://arxiv.org/abs/2603.27437)
 [![Code](https://img.shields.io/badge/💻_Code-GitHub-000000?style=flat-square&logo=github)](https://github.com/jzh15/SpatialStack)
@@ -78,9 +77,9 @@ Hierarchical geometry-language fusion framework for 3D VLM spatial reasoning, pr
 ---
 
 ### 🌟 VLM-3R: Vision-Language Models Augmented with 3D Reconstruction
-**CVPR 2026** | **Jian Zhang***, Zhiwen Fan*, et al.
+**CVPR 2026** | Zhiwen Fan*, **Jian Zhang***, Renjie Li, Junge Zhang, Runjin Chen, Hezhen Hu, Kevin Wang, Huaizhi Qu, Shijie Zhou, Dilin Wang, Zhicheng Yan, Haozhe Xu, Jan Theiss, Tianlong Chen, Junyi Li, Zuxuan Tu, Zhangyang Wang, Rakesh Ranjan
 
-Unified VLM framework incorporating 3D Reconstructive instruction tuning, processing monocular video to derive implicit 3D tokens for spatial assistance and embodied reasoning.
+Aligns VLMs with 3D reconstruction for spatial-temporal reasoning.
 
 [![Paper](https://img.shields.io/badge/📄_Paper-ArXiv-B31B1B?style=flat-square)](https://arxiv.org/abs/2505.20279)
 [![Code](https://img.shields.io/badge/💻_Code-GitHub-000000?style=flat-square&logo=github)](https://github.com/VITA-Group/VLM-3R)
@@ -89,22 +88,33 @@ Unified VLM framework incorporating 3D Reconstructive instruction tuning, proces
 
 ---
 
-### 🌍 DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds
-**NeurIPS 2025** | Kairun Wen*, Yuzhi Huang*, ..., **Jian Zhang**, et al.
+### 🧠 Thinking in Dynamics: Multimodal Reasoning in Physical 4D Worlds
+**CVPR 2026** | Yuzhi Huang*, Kairun Wen*, Rongxin Gao*, Dongxuan Liu, Yibin Lou, Jie Wu, Jing Xu, **Jian Zhang**, Zheng Yang, Yunlong Lin, Chenxin Li, Panwang Pan, Junbin Lu, Jingyan Jiang, Xinghao Ding, Yue Huang, Zhi Wang
 
-Large-scale dataset with 100K+ videos, 800K+ masks, and 10M+ frames for understanding dynamic physical worlds with evolving 3D structure and motion.
+Benchmarks MLLMs on dynamic 4D physical reasoning.
+
+[![Paper](https://img.shields.io/badge/📄_Paper-ArXiv-B31B1B?style=flat-square)](https://arxiv.org/abs/2603.12746)
+[![Code](https://img.shields.io/badge/💻_Code-GitHub-000000?style=flat-square&logo=github)](https://github.com/Dynamics-X/Thinking-in-Dynamics)
+[![Project](https://img.shields.io/badge/🌐_Project-Page-00D9FF?style=flat-square)](https://dyn-bench.github.io/)
+
+---
+
+### 🌍 DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds
+**NeurIPS 2025** | Kairun Wen*, Yuzhi Huang*, Runyu Chen, Hui Zheng, Yunlong Lin, Panwang Pan, Chenxin Li, Wenyan Cong, **Jian Zhang**, Junbin Lu, Chenguo Lin, Dilin Wang, Zhicheng Yan, Haozhe Xu, Jan Theiss, Yue Huang, Xinghao Ding, Rakesh Ranjan, Zhiwen Fan
+
+Builds physical-scale 4D world modeling data from real videos.
 
 [![Project](https://img.shields.io/badge/🌐_Project-Page-00D9FF?style=flat-square)](https://dynamic-verse.github.io/)
-[![Paper](https://img.shields.io/badge/📄_Paper-Coming_Soon-gray?style=flat-square)]()
+[![Paper](https://img.shields.io/badge/📄_Paper-ArXiv-B31B1B?style=flat-square)](https://arxiv.org/pdf/2512.03000)
 [![Code](https://img.shields.io/badge/💻_Code-GitHub-000000?style=flat-square&logo=github)](https://github.com/Dynamics-X/DynamicVerse)
 [![Demo](https://img.shields.io/badge/🎮_Demo-Interactive-FF6B6B?style=flat-square)](https://dynamic-verse.github.io/)
 
 ---
 
 ### 🏆 Large Spatial Model: End-to-end Unposed Images to Semantic 3D
-**NeurIPS 2024** | **Jian Zhang***, Zhiwen Fan*, et al.
+**NeurIPS 2024** | Zhiwen Fan*, **Jian Zhang***, Wenyan Cong, Peihao Wang, Renjie Li, Kairun Wen, Shijie Zhou, Achuta Kadambi, Zhangyang Wang, Danfei Xu, Boris Ivanovic, Marco Pavone, Y. Wang
 
-First real-time semantic 3D reconstruction system that directly processes unposed RGB images into semantic radiance fields in a single feed-forward pass.
+Maps unposed images directly to semantic 3D representations.
 
 [![Paper](https://img.shields.io/badge/📄_Paper-NeurIPS-B31B1B?style=flat-square)](https://arxiv.org/abs/2410.18956)
 [![Code](https://img.shields.io/badge/💻_Code-GitHub-000000?style=flat-square&logo=github)](https://github.com/NVlabs/LSM)
@@ -113,9 +123,9 @@ First real-time semantic 3D reconstruction system that directly processes unpose
 ---
 
 ### ⚡ InstantSplat: Sparse-view Gaussian Splatting in Seconds
-**ArXiv 2024** | Zhiwen Fan*, Kairun Wen*, ..., **Jian Zhang**, et al.
+**ArXiv 2024** | Zhiwen Fan*, Wenyan Cong*, Kairun Wen*, Kevin Wang, **Jian Zhang**, Xinghao Ding, Danfei Xu, Boris Ivanovic, Marco Pavone, Georgios Pavlakos, Zhangyang Wang, Y. Wang
 
-Lightning-fast sparse-view 3D scene reconstruction using self-supervised framework that optimizes 3D scene representation and camera poses simultaneously.
+Reconstructs sparse-view scenes with fast pose-free Gaussian splatting.
 
 [![Paper](https://img.shields.io/badge/📄_Paper-ArXiv-B31B1B?style=flat-square)](https://arxiv.org/abs/2403.20309)
 [![Code](https://img.shields.io/badge/💻_Code-GitHub-000000?style=flat-square&logo=github)](https://github.com/NVlabs/InstantSplat)
@@ -132,9 +142,9 @@ Lightning-fast sparse-view 3D scene reconstruction using self-supervised framewo
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🎬</h3>
-<b>3D-Consistent Video Generation</b>
-<br><sub>Creating spatially coherent visual content</sub>
+<h3>🧭</h3>
+<b>3D Vision-Language Models</b>
+<br><sub>Reasoning over geometry and language</sub>
 </td>
 <td align="center" width="33%">
 <h3>🔬</h3>
