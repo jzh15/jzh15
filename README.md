@@ -35,7 +35,7 @@
 
 - **🔬 3D Spatial Understanding**
 - **🧭 3D Vision-Language Models**
-- **🤖 Embodied Artificial Intelligence Agents**
+- **🤖 Embodied Intelligence Agents**
 
 </td>
 </tr>
