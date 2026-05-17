@@ -45,7 +45,7 @@
 
 ## 🎓 Education
 
-- **Graduate Student** | *Xiamen University* (Sept 2023 - Present)
+- **M.S. Information & Communication Engineering** | *Xiamen University* (Sept 2023 - Present)
 - **B.S. Data Science and Big Data Technology** | *Nanchang University* (Sept 2019 - June 2023)
 
 ## 💼 Experience
