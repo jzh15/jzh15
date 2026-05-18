@@ -46,8 +46,9 @@ _Xiamen University_
 ## 🎓 Education
 
 - **M.S. Information & Communication Engineering** | _Xiamen University_ (Sept 2023 - Present)<br>
-  Advisors: [Yue Huang](https://huangyue05.github.io/) and [Xinghao Ding](https://informatics.xmu.edu.cn/en/info/1069/1076.htm)
-- **B.S. Data Science and Big Data Technology** | _Nanchang University_ (Sept 2019 - June 2023)
+  Advisors: Prof. [Yue Huang](https://huangyue05.github.io/) & [Xinghao Ding](https://informatics.xmu.edu.cn/en/info/1069/1076.htm)
+- **B.S. Data Science and Big Data Technology** | _Nanchang University_ (Sept 2019 - June 2023)<br>
+  Advisor: Prof. [Li Zhu](https://teacher.ncu.edu.cn/publish/091987/)
 
 ## 💼 Experience
 
