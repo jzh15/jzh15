@@ -22,14 +22,14 @@
 <br>
 
 **🎓 Graduate Student**  
-*Xiamen University*
+_Xiamen University_
 
 </td>
 <td width="70%">
 
 ## 🚀 Research Vision
 
-> *My long-term vision centers on comprehensive **3D spatial understanding**: building 3D vision-language models, semantic reconstruction systems, and embodied agents that can reason about and interact with the physical world.*
+> _My long-term vision centers on comprehensive **3D spatial understanding**: building 3D vision-language models, semantic reconstruction systems, and embodied agents that can reason about and interact with the physical world._
 
 ### 🎯 Current Focus Areas
 
@@ -45,14 +45,15 @@
 
 ## 🎓 Education
 
-- **M.S. Information & Communication Engineering** | *Xiamen University* (Sept 2023 - Present)
-- **B.S. Data Science and Big Data Technology** | *Nanchang University* (Sept 2019 - June 2023)
+- **M.S. Information & Communication Engineering** | _Xiamen University_ (Sept 2023 - Present)<br>
+  Advisors: [Yue Huang](https://huangyue05.github.io/) and [Xinghao Ding](https://informatics.xmu.edu.cn/en/info/1069/1076.htm)
+- **B.S. Data Science and Big Data Technology** | _Nanchang University_ (Sept 2019 - June 2023)
 
 ## 💼 Experience
 
-- **Remote Research Assistant** | *[PHAI Lab](https://phai-lab.github.io/), Texas A&M University* (May 2025 - Aug 2025)<br>
+- **Remote Research Assistant** | _[PHAI Lab](https://phai-lab.github.io/), Texas A&M University_ (May 2025 - Aug 2025)<br>
   3D Vision & Embodied Intelligence
-- **Remote Research Assistant** | *[VITA Group](https://vita-group.github.io/group.html), University of Texas at Austin* (Jan 2024 - May 2025)<br>
+- **Remote Research Assistant** | _[VITA Group](https://vita-group.github.io/group.html), University of Texas at Austin_ (Jan 2024 - May 2025)<br>
   3D Semantic Reconstruction
 
 ---
@@ -66,7 +67,8 @@
 </div>
 
 ### 🧭 SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning
-**CVPR 2026** | **Jian Zhang***, Shijie Zhou*, Bangya Liu*, Achuta Kadambi, Zhiwen Fan
+
+**CVPR 2026** | **Jian Zhang\***, Shijie Zhou*, Bangya Liu*, Achuta Kadambi, Zhiwen Fan
 
 Fuses layered geometry-language features for 3D spatial reasoning.
 
@@ -79,7 +81,8 @@ Fuses layered geometry-language features for 3D spatial reasoning.
 ---
 
 ### 🌟 VLM-3R: Vision-Language Models Augmented with 3D Reconstruction
-**CVPR 2026** | Zhiwen Fan*, **Jian Zhang***, Renjie Li, Junge Zhang, Runjin Chen, Hezhen Hu, Kevin Wang, Huaizhi Qu, Shijie Zhou, Dilin Wang, Zhicheng Yan, Haozhe Xu, Jan Theiss, Tianlong Chen, Junyi Li, Zuxuan Tu, Zhangyang Wang, Rakesh Ranjan
+
+**CVPR 2026** | Zhiwen Fan\*, **Jian Zhang\***, Renjie Li, Junge Zhang, Runjin Chen, Hezhen Hu, Kevin Wang, Huaizhi Qu, Shijie Zhou, Dilin Wang, Zhicheng Yan, Haozhe Xu, Jan Theiss, Tianlong Chen, Junyi Li, Zuxuan Tu, Zhangyang Wang, Rakesh Ranjan
 
 Aligns VLMs with 3D reconstruction for spatial-temporal reasoning.
 
@@ -91,7 +94,8 @@ Aligns VLMs with 3D reconstruction for spatial-temporal reasoning.
 ---
 
 ### 🧠 Thinking in Dynamics: Multimodal Reasoning in Physical 4D Worlds
-**CVPR 2026** | Yuzhi Huang*, Kairun Wen*, Rongxin Gao*, Dongxuan Liu, Yibin Lou, Jie Wu, Jing Xu, **Jian Zhang**, Zheng Yang, Yunlong Lin, Chenxin Li, Panwang Pan, Junbin Lu, Jingyan Jiang, Xinghao Ding, Yue Huang, Zhi Wang
+
+**CVPR 2026** | Yuzhi Huang*, Kairun Wen*, Rongxin Gao\*, Dongxuan Liu, Yibin Lou, Jie Wu, Jing Xu, **Jian Zhang**, Zheng Yang, Yunlong Lin, Chenxin Li, Panwang Pan, Junbin Lu, Jingyan Jiang, Xinghao Ding, Yue Huang, Zhi Wang
 
 Benchmarks MLLMs on dynamic 4D physical reasoning.
 
@@ -102,6 +106,7 @@ Benchmarks MLLMs on dynamic 4D physical reasoning.
 ---
 
 ### 🌍 DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds
+
 **NeurIPS 2025** | Kairun Wen*, Yuzhi Huang*, Runyu Chen, Hui Zheng, Yunlong Lin, Panwang Pan, Chenxin Li, Wenyan Cong, **Jian Zhang**, Junbin Lu, Chenguo Lin, Dilin Wang, Zhicheng Yan, Haozhe Xu, Jan Theiss, Yue Huang, Xinghao Ding, Rakesh Ranjan, Zhiwen Fan
 
 Builds physical-scale 4D world modeling data from real videos.
@@ -114,7 +119,8 @@ Builds physical-scale 4D world modeling data from real videos.
 ---
 
 ### 🏆 Large Spatial Model: End-to-end Unposed Images to Semantic 3D
-**NeurIPS 2024** | Zhiwen Fan*, **Jian Zhang***, Wenyan Cong, Peihao Wang, Renjie Li, Kairun Wen, Shijie Zhou, Achuta Kadambi, Zhangyang Wang, Danfei Xu, Boris Ivanovic, Marco Pavone, Y. Wang
+
+**NeurIPS 2024** | Zhiwen Fan\*, **Jian Zhang\***, Wenyan Cong, Peihao Wang, Renjie Li, Kairun Wen, Shijie Zhou, Achuta Kadambi, Zhangyang Wang, Danfei Xu, Boris Ivanovic, Marco Pavone, Y. Wang
 
 Maps unposed images directly to semantic 3D representations.
 
@@ -125,7 +131,8 @@ Maps unposed images directly to semantic 3D representations.
 ---
 
 ### ⚡ InstantSplat: Sparse-view Gaussian Splatting in Seconds
-**ArXiv 2024** | Zhiwen Fan*, Wenyan Cong*, Kairun Wen*, Kevin Wang, **Jian Zhang**, Xinghao Ding, Danfei Xu, Boris Ivanovic, Marco Pavone, Georgios Pavlakos, Zhangyang Wang, Y. Wang
+
+**ArXiv 2024** | Zhiwen Fan*, Wenyan Cong*, Kairun Wen\*, Kevin Wang, **Jian Zhang**, Xinghao Ding, Danfei Xu, Boris Ivanovic, Marco Pavone, Georgios Pavlakos, Zhangyang Wang, Y. Wang
 
 Reconstructs sparse-view scenes with fast pose-free Gaussian splatting.
 
@@ -161,7 +168,7 @@ Reconstructs sparse-view scenes with fast pose-free Gaussian splatting.
 </tr>
 </table>
 
-*Particularly interested in opportunities that bridge cutting-edge research with real-world applications.*
+_Particularly interested in opportunities that bridge cutting-edge research with real-world applications._
 
 </div>
 
@@ -181,6 +188,6 @@ Reconstructs sparse-view scenes with fast pose-free Gaussian splatting.
   <img alt="Thanks for visiting!" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=333333" width="100%">
 </picture>
 
-*Building the future of 3D AI, one breakthrough at a time* ✨
+_Building the future of 3D AI, one breakthrough at a time_ ✨
 
 </div>
